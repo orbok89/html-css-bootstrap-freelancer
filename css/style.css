@@ -47,3 +47,17 @@ footer{
     height: 2px;
     width: 45px;
 }
+.about{
+    background-color: #1ABC9C;
+    color: white;
+}
+.bottone-d{
+    width: 150px;
+    color: white;
+}
+#nob {
+    border: 0;
+    box-shadow: none; 
+    border-bottom: 1px solid black;
+    border-radius: 0%;
+}
