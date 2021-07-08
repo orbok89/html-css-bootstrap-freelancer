@@ -21,13 +21,29 @@ header{
     width: 45px;
 }
 footer{
-    
+    color: white;
 }
 .row-footer{
     height: 70px;
     background-color:#2C3E50 ;
-    color: white;
+    
 }
 .footer-up{
     background-color: #3A546D;
+}
+.cerchio{
+    width: 35px;
+    height: 35px;
+}
+#jumbo{
+    width: 400px;
+}
+.jumbotron{
+    background-color: #1ABC9C;
+    color: white;
+}
+.linea-w{
+    background-color: white;
+    height: 2px;
+    width: 45px;
 }
